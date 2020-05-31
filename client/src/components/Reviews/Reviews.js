@@ -1,6 +1,6 @@
 import React from "react";
 
-const Review = () => {
+const Reviews = () => {
   return <div>review</div>;
 };
-export default Review;
+export default Reviews;
