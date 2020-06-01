@@ -1,6 +1,6 @@
 import React from "react";
 
 const Reviews = () => {
-  return <div>review</div>;
+  return <h1>review</h1>;
 };
 export default Reviews;

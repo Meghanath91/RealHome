@@ -1,0 +1,21 @@
+.navbar {
+  font-size: 50px;
+  display: inline-grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  width: 100%;
+  background-color: black;
+  height: 100px;
+  top: 0;
+  position: fixed;
+  z-index: 10000;
+}
+.navbar-link {
+  color: white;
+  text-decoration: none;
+  padding: 10px;
+}
+
+.navbar-link:hover{
+  color:red;
+
+}
