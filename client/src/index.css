@@ -1,4 +1,9 @@
 @import '/path/to/reset-css/reset.css';
+*{
+  margin:0px;
+  padding:0px;
+  box-sizing: border-box;
+}
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
